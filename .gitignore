@@ -1,0 +1,25 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Secrets
+.env
+
+# Experimental data and generated results
+data/
+results/
+
+# Compiled files
+*.o
+*.mex*
+
+# Editor backups
+*.save
